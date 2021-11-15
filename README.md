@@ -8,7 +8,8 @@ for å bruke en tilpasset kortstokk så må filen legges sammen med programmet o
 for å kjøre testprogrammet
   - python3 -m unittest
   
-'test.in' må ikke fjernes da den blir brukt av test programmet
+'test.in' filen må ikke fjernes da den blir brukt av test programmet
 
 Koden har ikke blitt kommentert siden den skal presenteres
+
 koden har bare blitt testet på Ubuntu 18.04
