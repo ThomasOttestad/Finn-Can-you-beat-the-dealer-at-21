@@ -10,6 +10,8 @@ for å kjøre testprogrammet
   
 'test.in' filen må ikke fjernes da den blir brukt av test programmet
 
+'cards.in' filen må ikke fjernes da den blir brukt for å generere kortstokken
+
 Koden har ikke blitt kommentert siden den skal presenteres
 
 koden har bare blitt testet på Ubuntu 18.04
